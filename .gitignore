@@ -1,2 +1,3 @@
 .venv/
-data/
+data/known_requests.json
+data/nodes.json
